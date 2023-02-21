@@ -1,0 +1,28 @@
+body{
+background-image: url(../img/foto.avif);
+background-size: cover;
+font-family: 'Shantell Sans', cursive;;
+
+
+}
+.container{
+    max-width: 1170px;
+    margin: auto;
+}
+.credenziali{
+    padding: 50px;
+    border: 1px solid black;
+    background-color: rgb(232, 225, 236);
+    display: flex;
+    border-radius: 30px;
+    flex-direction: column;
+
+}
+.tx-center{
+   text-align: center;
+}
+
+h1#nome, h1#cognome, h1#colore, h1#datiL{
+    color: brown;
+   
+}
